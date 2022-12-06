@@ -1,0 +1,108 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: josein Sans', sans-serif;
+}
+body{
+    background-color: black;
+}
+.hello{
+    height: 100vh;
+    width: 100%;
+}
+nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+.logo{
+    margin-left: 50px;
+    color: white;
+    font-weight: 28px;
+
+}
+.bb1{
+    margin-right: 160px;
+    border: none;
+    background: #ea1538;
+    padding: 12px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: .4s;
+
+}
+.logospan{
+    color: #ea1538;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    color:white ;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+color: #ea1538;
+transition: .3s;
+}
+.bb1:hover{
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+    display: flex;
+
+}
+.container1{
+    margin-left: 100px;
+}
+img{
+    width: 400px;
+    height: 450px;
+    border-radius: 30px;
+}
+.name{
+    font-size: 90px;
+    color: white;
+}
+.sostene{
+    color: #ea1538;
+}
+.designer{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+.bb2{
+    border: none;
+    background: #ea1538;
+    padding: 12px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    transition: .4s;
+    margin-top: 50px;
+}
+.bb2:hover{
+    
+    transform: scale(1.3);
+}
