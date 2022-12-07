@@ -5,6 +5,40 @@
     box-sizing: border-box;
     font-family: josein Sans', sans-serif;
 }
+.i_container1{
+    margin-top: 110px;
+    text-align: center;
+}
+
+.i_name{
+    font-size: 90px;
+    color: white;
+}
+.i_sostene{
+    color: #ea1538;
+}
+.i_designer{
+    margin-top: 30px;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+.i_bb2{
+    border: none;
+    background: #ea1538;
+    padding: 12px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    transition: .4s;
+    margin-top: 80px;
+}
+.i_bb2:hover{
+    
+    transform: scale(1.3);
+}
+
 body{
     background-color: black;
 }
