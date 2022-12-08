@@ -15,7 +15,7 @@
     color: white;
 }
 .i_sostene{
-    color: #ea1538;
+    color:gray;
 }
 .i_designer{
     margin-top: 30px;
@@ -25,7 +25,7 @@
 }
 .i_bb2{
     border: none;
-    background: #ea1538;
+    background: gray;
     padding: 12px 30px;
     border-radius: 50px;
     color: white;
@@ -40,7 +40,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: #aba7ec;
 }
 .hello{
     height: 100vh;
@@ -63,7 +63,7 @@ nav{
 .bb1{
     margin-right: 160px;
     border: none;
-    background: #ea1538;
+    background: darkblue;
     padding: 12px 30px;
     border-radius: 50px;
     color: white;
@@ -73,7 +73,7 @@ nav{
 
 }
 .logospan{
-    color: #ea1538;
+    color: darkblue;
 }
 nav ul li{
     list-style-type: none;
@@ -87,7 +87,7 @@ nav ul li a{
     font-weight: bold;
 }
 nav ul li a:hover{
-color: #ea1538;
+color:darkblue;
 transition: .3s;
 }
 .bb1:hover{
@@ -115,7 +115,7 @@ img{
     color: white;
 }
 .sostene{
-    color: #ea1538;
+    color: gray;
 }
 .designer{
     font-size: 45px;
@@ -126,15 +126,16 @@ p{
     color: white;
 }
 .bb2{
-    border: none;
-    background: #ea1538;
+    
+    background: transparent;
     padding: 12px 30px;
-    border-radius: 50px;
+    border-radius:  60px;
+    border-color: white;
     color: white;
     font-weight: bold;
     font-size: 35px;
     transition: .4s;
-    margin-top: 50px;
+    margin-top: 50px;    
 }
 .bb2:hover{
     
